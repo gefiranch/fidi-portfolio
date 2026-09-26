@@ -39,7 +39,7 @@ body {
     margin: 0;
     background: var(--bg);
     color: var(--text);
-    font-family: Manrope, Arial, sans-serif;
+    font-family: poppins, Arial, sans-serif;
     font-size: 16px;
     line-height: 1.65;
     transition: background .4s, color .4s
