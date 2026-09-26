@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Figma",
+    "slug": "figma",
+    "source": "https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/figma/figma-original.svg",
+    "monochrome": false
+  },
+  {
+    "name": "Framer",
+    "slug": "framer",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@16/icons/framer.svg",
+    "monochrome": true
+  },
+  {
+    "name": "Sketch",
+    "slug": "sketch",
+    "source": "https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/sketch/sketch-original.svg",
+    "monochrome": false
+  },
+  {
+    "name": "Photoshop",
+    "slug": "photoshop",
+    "source": "https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/photoshop/photoshop-original.svg",
+    "monochrome": false
+  },
+  {
+    "name": "Illustrator",
+    "slug": "illustrator",
+    "source": "https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/illustrator/illustrator-original.svg",
+    "monochrome": false
+  },
+  {
+    "name": "After Effects",
+    "slug": "aftereffects",
+    "source": "https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/aftereffects/aftereffects-original.svg",
+    "monochrome": false
+  },
+  {
+    "name": "Blender",
+    "slug": "blender",
+    "source": "https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/blender/blender-original.svg",
+    "monochrome": false
+  },
+  {
+    "name": "Canva",
+    "slug": "canva",
+    "source": "https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/canva/canva-original.svg",
+    "monochrome": false
+  },
+  {
+    "name": "VS Code",
+    "slug": "vscode",
+    "source": "https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/vscode/vscode-original.svg",
+    "monochrome": false
+  },
+  {
+    "name": "GitHub",
+    "slug": "github",
+    "source": "https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/github/github-original.svg",
+    "monochrome": true
+  },
+  {
+    "name": "Git",
+    "slug": "git",
+    "source": "https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/git/git-original.svg",
+    "monochrome": false
+  },
+  {
+    "name": "Vercel",
+    "slug": "vercel",
+    "source": "https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/vercel/vercel-original.svg",
+    "monochrome": true
+  },
+  {
+    "name": "Netlify",
+    "slug": "netlify",
+    "source": "https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/netlify/netlify-original.svg",
+    "monochrome": false
+  },
+  {
+    "name": "CodePen",
+    "slug": "codepen",
+    "source": "https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/codepen/codepen-original.svg",
+    "monochrome": true
+  },
+  {
+    "name": "Postman",
+    "slug": "postman",
+    "source": "https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/postman/postman-original.svg",
+    "monochrome": false
+  },
+  {
+    "name": "Docker",
+    "slug": "docker",
+    "source": "https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/docker/docker-original.svg",
+    "monochrome": false
+  },
+  {
+    "name": "Notion",
+    "slug": "notion",
+    "source": "https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/notion/notion-original.svg",
+    "monochrome": true
+  },
+  {
+    "name": "Linear",
+    "slug": "linear",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@16/icons/linear.svg",
+    "monochrome": true
+  },
+  {
+    "name": "Slack",
+    "slug": "slack",
+    "source": "https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/slack/slack-original.svg",
+    "monochrome": false
+  },
+  {
+    "name": "Discord",
+    "slug": "discord",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@16/icons/discord.svg",
+    "monochrome": true
+  },
+  {
+    "name": "Miro",
+    "slug": "miro",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@16/icons/miro.svg",
+    "monochrome": true
+  },
+  {
+    "name": "Trello",
+    "slug": "trello",
+    "source": "https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/trello/trello-original.svg",
+    "monochrome": false
+  },
+  {
+    "name": "Obsidian",
+    "slug": "obsidian",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@16/icons/obsidian.svg",
+    "monochrome": true
+  },
+  {
+    "name": "Arc",
+    "slug": "arc",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@16/icons/arc.svg",
+    "monochrome": true
+  }
+]
